@@ -5,12 +5,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ayushsshukla/leetcrap/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/ayushsshukla/leetcrap/tree/master/0189-rotate-array) |
 ## Array
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushsshukla/leetcrap/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/ayushsshukla/leetcrap/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushsshukla/leetcrap/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/ayushsshukla/leetcrap/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
